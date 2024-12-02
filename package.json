@@ -1,6 +1,6 @@
 {
   "name": "@the-software-compagny/nestjs_module_factorydrive-sftp",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "SFTP driver for @the-software-compagny/nestjs_module_factorydrive",
   "repository": "https://github.com/The-Software-Compagny/nestjs_module_factorydrive-sftp.git",
   "author": "tacxou <12997062+tacxou@users.noreply.github.com> (https://github.com/tacxou)",
